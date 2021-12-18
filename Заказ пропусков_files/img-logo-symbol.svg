@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="69px" viewBox="0 0 79 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>symbol</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="symbol" fill-rule="nonzero">
+            <polygon id="Rectangle" fill="#06B4FC" points="0 21 18 1 18 69 0 49"></polygon>
+            <polygon id="Rectangle" fill="#06B4FC" points="61 1 79 21 79 49 61 69"></polygon>
+            <polygon id="Rectangle" fill="#0095D4" points="17.6654762 26.3933983 17.3933983 0.665476221 40.3345238 23.6066017 27.6066017 36.3345238"></polygon>
+            <polygon id="Rectangle" fill="#00A1E5" points="60.9411255 26.7867966 61.2132034 1.0588745 18.0588745 43.2132034 17.7867966 68.9411255"></polygon>
+        </g>
+    </g>
+</svg>
